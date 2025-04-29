@@ -1,0 +1,2 @@
+hello world
+learning file handling in nodejs
